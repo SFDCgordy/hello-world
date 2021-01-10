@@ -1,3 +1,3 @@
 # hello-world
 
-I'm an entrepreuneur
+I'm an entrepreneur
